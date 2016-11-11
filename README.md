@@ -1,6 +1,6 @@
 # VDStars
 评分✨星星
-  ##关于用法
+
     SBStar *sb = [[SBStar alloc] init];
     [sb createStars:3];
     sb.backgroundColor = [UIColor redColor];
